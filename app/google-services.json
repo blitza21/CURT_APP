@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810096505154",
+    "project_id": "curt-app",
+    "storage_bucket": "curt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810096505154:android:e8832ddf36eedf5b6118db",
+        "android_client_info": {
+          "package_name": "com.example.curt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-sW1PaEPMQfPiYrqNa8imb1966yq3yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
